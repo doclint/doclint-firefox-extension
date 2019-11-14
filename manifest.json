@@ -1,0 +1,6 @@
+{
+  "name": "DocLint Chrome",
+  "version": "0.1",
+  "description": "A documentation linter to help make your documentation better",
+  "manifest_version": 2
+}
